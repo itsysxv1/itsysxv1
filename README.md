@@ -71,67 +71,74 @@ about_me: Obsessed with clean code, dark themes, and terminal life
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"><br><small>HTML</small>
+      <img src="https://skillicons.dev/icons?i=html" width="48"><br><small>HTML</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"><br><small>CSS</small>
+      <img src="https://skillicons.dev/icons?i=css" width="48"><br><small>CSS</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48"><br><small>JavaScript</small>
+      <img src="https://skillicons.dev/icons?i=js" width="48"><br><small>JavaScript</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"><br><small>TypeScript</small>
+      <img src="https://skillicons.dev/icons?i=ts" width="48"><br><small>TypeScript</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"><br><small>Node.js</small>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"><br><small>Node.js</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48"><br><small>Express</small>
+      <img src="https://skillicons.dev/icons?i=express" width="48"><br><small>Express</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48"><br><small>Python</small>
+      <img src="https://skillicons.dev/icons?i=python" width="48"><br><small>Python</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"><br><small>React</small>
+      <img src="https://skillicons.dev/icons?i=react" width="48"><br><small>React</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"><br><small>Next.js</small>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48"><br><small>Next.js</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48"><br><small>Vue.js</small>
+      <img src="https://skillicons.dev/icons?i=vue" width="48"><br><small>Vue.js</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="48"><br><small>PHP</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48"><br><small>PHP</small>
+      <img src="https://skillicons.dev/icons?i=go" width="48"><br><small>Go</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48"><br><small>Go</small>
+      <img src="https://skillicons.dev/icons?i=java" width="48"><br><small>Java</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48"><br><small>Java</small>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"><br><small>MySQL</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"><br><small>MySQL</small>
+      <img src="https://skillicons.dev/icons?i=c" width="48"><br><small>C</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48"><br><small>C</small>
+      <img src="https://skillicons.dev/icons?i=csharp" width="48"><br><small>C#</small>
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" height="28"><br><small>C#</small>
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"><br><small>C++</small>
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square" height="28"><br><small>C++</small>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"><br><small>MongoDB</small>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48"><br><small>MongoDB</small>
     </td>
   </tr>
 </table>
 
 <h4>🖥️ Operating Systems I use:</h4>
+
 <table>
   <tr>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white&style=flat-square"><br><small>Kali / Arch / Ubuntu / Parrot</small></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square"><br><small>Windows</small></td>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/linux/000000/ffffff" width="32"><br><small>Kali / Arch / Ubuntu / Parrot</small>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/windows/0078D6/ffffff" width="32"><br><small>Windows</small>
+    </td>
   </tr>
 </table>
 
