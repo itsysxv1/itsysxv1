@@ -137,7 +137,7 @@ about_me: Obsessed with clean code, dark themes, and terminal life
       <img src="https://cdn.simpleicons.org/linux/000000/ffffff" width="32"><br><small>Kali / Arch / Ubuntu / Parrot</small>
     </td>
     <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/windows/0078D6/ffffff" width="32"><br><small>Windows</small>
+      <img src="https://camo.githubusercontent.com/3c311b1b854ef3f9f7cbb31fcf1dea7266fc0b397415c291de241a689ad8b0ac/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f77696e646f77732f3030373844362f666666666666" width="32"><br><small>Windows</small>
     </td>
   </tr>
 </table>
