@@ -118,7 +118,7 @@ about_me: Obsessed with clean code, dark themes, and terminal life
       <img src="https://skillicons.dev/icons?i=c" width="48"><br><small>C</small>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48"><br><small>C#</small>
+      <img src="https://skillicons.dev/icons?i=csharp&theme=dark" width="48"><br><small>C#</small>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="48"><br><small>C++</small>
@@ -141,7 +141,6 @@ about_me: Obsessed with clean code, dark themes, and terminal life
     </td>
   </tr>
 </table>
-
 
 
 
