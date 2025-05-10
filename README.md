@@ -64,75 +64,44 @@ about_me: Obsessed with clean code, dark themes, and terminal life
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## ⚙️ My Favorite Tools And Technologies
+<h2 align="center">⚙️ My Favorite Tools And Technologies</h2>
+<h3 align="center">Tools and technologies that I use regularly</h3>
 
-<h3>Tools and technologies that I use regularly</h3>
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"><br><small>HTML</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"><br><small>CSS</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48"><br><small>JavaScript</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"><br><small>TypeScript</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"><br><small>Node.js</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48"><br><small>Express</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48"><br><small>Python</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"><br><small>React</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"><br><small>Next.js</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48"><br><small>Vue.js</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48"><br><small>PHP</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48"><br><small>Go</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48"><br><small>Java</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"><br><small>MySQL</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48"><br><small>C</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48"><br><small>C#</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=cplusplus" width="48" height="48"><br><small>C++</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"><br><small>MongoDB</small>
-    </td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48"><br><small>HTML</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="48"><br><small>CSS</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="48"><br><small>JavaScript</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="48"><br><small>TypeScript</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="48"><br><small>Node.js</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="48"><br><small>Express</small></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48"><br><small>Python</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="48"><br><small>React</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="48"><br><small>Next.js</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vue" width="48"><br><small>Vue.js</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=php" width="48"><br><small>PHP</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=go" width="48"><br><small>Go</small></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48"><br><small>Java</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="48"><br><small>MySQL</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48"><br><small>C</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=csharp" width="48"><br><small>C#</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cplusplus" width="48"><br><small>C++</small></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br><small>MongoDB</small></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" height="28"><br><small>Linux</small></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Kali-557EFF?logo=kalilinux&logoColor=white" height="28"><br><small>Kali</small></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white" height="28"><br><small>Arch</small></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="28"><br><small>Ubuntu</small></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Parrot-1F8ACB?logo=parrotos&logoColor=white" height="28"><br><small>Parrot</small></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="28"><br><small>Windows</small></td>
   </tr>
 </table>
 
-
-<h4>Operating Systems I use:</h4>
-<ul>
-  <li>Linux (Kali / Arch / Ubuntu / Parrot)</li>
-  <li>Windows</li>
-</ul>
 
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
