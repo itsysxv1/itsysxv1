@@ -35,7 +35,7 @@
 # My Information
 name: youssef
 username: itsysxv1
-age: 21
+age: 22
 job: Full-Stack Developer & Security Enthusiast
 hobbies: clean code, dark themes, terminal life, coffee, music, anime, gaming
 about_me: Obsessed with clean code, dark themes, and terminal life
