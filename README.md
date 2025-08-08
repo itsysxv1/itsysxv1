@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIcore&fontSize=60&fontColor=8c6e5c&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIPlatform&fontSize=60&fontColor=8c6e5c&animation=twinkling)
 
 <h2 align="center">
   <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">GitHub IDs :
@@ -7,7 +7,7 @@
 
  ```js
 > - itsysxv1
-> - VI core
+> - VIPlatform
 ```
 <table border="0">
   <tr>
@@ -16,7 +16,7 @@
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Welcome+to+the+Shadows;+I'm+Youssef+M+AKA+YSX;" alt="Typing   "/>
         <br>
-        <img width="150" align="center" src="https://komarev.com/ghpvc/?username=itsysxv1&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Profile Visitor Counter"/>
+        <img width="150" align="center" src="https://komarev.com/ghpvc/?username=itsysxv1&label=Profile%20Visitor&color=8c6e5c&style=for-the-badge" alt="Profile Visitor Counter"/>
         <br>  
         <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=itsysxv1&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/>
       </p>
@@ -48,16 +48,16 @@ about_me: Obsessed with clean code, dark themes, and terminal life
 
 <div align="left">
   <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/vibezg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  <a href="https://discord.gg/vihub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="mailto:yousexv1@gmail.com.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.twitch.tv/iamysx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
 
 </div>
