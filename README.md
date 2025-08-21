@@ -14,7 +14,7 @@
       <td>
         <br>
         <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8B4513&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%8B+Welcome+to+my+profile;+I%27m+Youssef+AKA+YSX;;" alt="Typing   "/>
+          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=3E2723&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%8B+Welcome+to+my+profile;+I%27m+Youssef+AKA+YSX;;" alt="Typing   "/>
           <br>
           <img width="150" align="center" src="https://komarev.com/ghpvc/?username=itsysxv1&label=Profile%20Visitor&color=8c6e5c&style=for-the-badge" alt="Profile Visitor Counter"/>
           <br>  
