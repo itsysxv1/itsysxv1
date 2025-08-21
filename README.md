@@ -2,13 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIPlatform&fontSize=60&fontColor=8c6e5c&animation=twinkling)
 
 <h2 align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="40"> GitHub IDs
+  <img src="https://skillicons.dev/icons?i=github" width="30"> GitHub IDs
 </h2>
- ```js
-const githubAccounts = {
-  main: "itsysxv1",
-  organization: "VIPlatform"
-};
+ ```yaml
+# GitHub Accounts
+main: itsysxv1
+organization: VIPlatform
 ```
 <table border="0">
   <tr>
@@ -29,7 +28,7 @@ const githubAccounts = {
 </table>
 
 <h2 align="center">
-  <img src="https://skillicons.dev/icons?i=user" width="40"> My Information
+  <img src="https://skillicons.dev/icons?i=user" width="30"> My Information
 </h2>
 
 ```yaml
@@ -45,7 +44,7 @@ about_me: i break and build in silence i move in shadows i let results speak
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## <img src="https://skillicons.dev/icons?i=linkedin" width="40"> Connect With Me
+## <img src="https://skillicons.dev/icons?i=linkedin" width="30"> Connect With Me
 
 <div align="left">
   <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
@@ -65,7 +64,7 @@ about_me: i break and build in silence i move in shadows i let results speak
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## <img src="https://skillicons.dev/icons?i=code" width="40"> My Favorite Tools And Technologies
+## <img src="https://skillicons.dev/icons?i=code" width="30"> My Favorite Tools And Technologies
 
 <h3>Programming Languages & Frameworks</h3>
 
@@ -181,20 +180,20 @@ about_me: i break and build in silence i move in shadows i let results speak
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## <img src="https://skillicons.dev/icons?i=chart" width="40"> GitHub Stats
+## <img src="https://skillicons.dev/icons?i=chart" width="30"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
   <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
 </div>
 
-## <img src="https://skillicons.dev/icons?i=language" width="40"> Languages Used
+## <img src="https://skillicons.dev/icons?i=language" width="30"> Languages Used
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
 </div>
 
-## <img src="https://skillicons.dev/icons?i=trophy" width="40"> Trophy Case & Contribution Graph
+## <img src="https://skillicons.dev/icons?i=trophy" width="30"> Trophy Case & Contribution Graph
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
