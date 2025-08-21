@@ -1,9 +1,9 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIPlatform&fontSize=60&fontColor=8c6e5c&animation=twinkling)
 
-  <h2 align="center" style="color: #a27c58;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> GitHub Accounts
-  </h2>
+<h2 align="center" style="color: #8B4513;">
+  <img src="https://img.icons8.com/ios/50/000000/github.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> GitHub Accounts
+</h2>
   
   ```yaml
   #My GitHub Profiles
@@ -15,7 +15,7 @@
       <td>
         <br>
         <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Welcome+to+the+Shadows;+I'm+Youssef+M+AKA+YSX;" alt="Typing   "/>
+          <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8B4513&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%8B+Welcome+to+my+profile;+I%27m+Youssef+AKA+YSX;;" alt="Typing   "/>
           <br>
           <img width="150" align="center" src="https://komarev.com/ghpvc/?username=itsysxv1&label=Profile%20Visitor&color=8c6e5c&style=for-the-badge" alt="Profile Visitor Counter"/>
           <br>  
@@ -28,9 +28,9 @@
     </tr>
   </table>
 
-  <h2 align="center" style="color: #a27c58;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/user/user.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> My Information
-  </h2>
+<h2 align="center" style="color: #8B4513;">
+  <img src="https://img.icons8.com/ios/50/000000/user.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> My Information
+</h2>
 
   ```yaml
   # My Information
@@ -45,7 +45,7 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Connect With Me</div>
+  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/discord.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Connect With Me</div>
 
   <div align="left">
     <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
@@ -65,9 +65,9 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> My Favorite Tools And Technologies</div>
+  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/code.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> My Favorite Tools And Technologies</div>
 
-  <h3>Programming Languages & Frameworks</h3>
+  <h3 style="color:#8B4513;">Programming Languages & Frameworks</h3>
 
   <table>
     <tr>
@@ -136,7 +136,7 @@
     </tr>
   </table>
 
-  <h3>DevOps & Tools</h3>
+  <h3 style="color:#8B4513;">DevOps & Tools</h3>
 
   <table>
     <tr>
@@ -181,20 +181,20 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chart/chart.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> GitHub Stats</div>
+  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/bar-chart.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> GitHub Stats</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
     <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Languages Used</div>
+  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/javascript.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Languages Used</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trophy/trophy.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Trophy Case & Contribution Graph</div>
+  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/trophy.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Trophy Case & Contribution Graph</div>
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
