@@ -2,7 +2,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIPlatform&fontSize=60&fontColor=8c6e5c&animation=twinkling)
 
   <h2 align="center" style="color: #a27c58;">
-    <img src="https://skillicons.dev/icons?i=github" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> GitHub Accounts
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> GitHub Accounts
   </h2>
   
   ```yaml
@@ -29,7 +29,7 @@
   </table>
 
   <h2 align="center" style="color: #a27c58;">
-    <img src="https://skillicons.dev/icons?i=user" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> My Information
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/user/user.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> My Information
   </h2>
 
   ```yaml
@@ -45,7 +45,7 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://skillicons.dev/icons?i=linkedin" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> Connect With Me</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Connect With Me</div>
 
   <div align="left">
     <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
@@ -65,7 +65,7 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://skillicons.dev/icons?i=code" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> My Favorite Tools And Technologies</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> My Favorite Tools And Technologies</div>
 
   <h3>Programming Languages & Frameworks</h3>
 
@@ -181,20 +181,20 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://skillicons.dev/icons?i=chart" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> GitHub Stats</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chart/chart.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> GitHub Stats</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
     <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://skillicons.dev/icons?i=js" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> Languages Used</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Languages Used</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://skillicons.dev/icons?i=trophy" width="20" style="filter: hue-rotate(30deg) saturate(1.5) brightness(0.8);"> Trophy Case & Contribution Graph</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trophy/trophy.svg" width="20" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(30deg) brightness(0.7);"> Trophy Case & Contribution Graph</div>
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
