@@ -45,7 +45,7 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/discord.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Connect With Me</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> Connect With Me</div>
 
   <div align="left">
     <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
@@ -65,7 +65,7 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/code.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> My Favorite Tools And Technologies</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/code.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> My Favorite Tools And Technologies</div>
 
   <h3 style="color:#8B4513;">Programming Languages & Frameworks</h3>
 
@@ -181,20 +181,20 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/bar-chart.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> GitHub Stats</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/bar-chart.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> GitHub Stats</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
     <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/javascript.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Languages Used</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/javascript.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> Languages Used</div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
   </div>
 
-  ## <div align="center" style="color: #8B4513;"><img src="https://img.icons8.com/ios/50/000000/trophy.png" width="20" style="filter: invert(33%) sepia(88%) saturate(620%) hue-rotate(9deg) brightness(92%) contrast(86%);"> Trophy Case & Contribution Graph</div>
+  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/trophy.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> Trophy Case & Contribution Graph</div>
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
