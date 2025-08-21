@@ -65,7 +65,10 @@
 
   <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-  ## <div align="center" style="color: #a27c58;"><img src="https://img.icons8.com/ios/50/000000/code.png" width="20" style="filter: brightness(0) saturate(100%) invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"> My Favorite Tools And Technologies</div>
+  ## <div align="center" style="color: #593012;">
+  <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=593012" width="20">
+        My Favorite Tools And Technologies
+    </div>
 
   <h3 style="color:#8B4513;">Programming Languages & Frameworks</h3>
 
