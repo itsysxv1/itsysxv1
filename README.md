@@ -2,11 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a27c58&height=200&section=header&text=VIPlatform&fontSize=60&fontColor=8c6e5c&animation=twinkling)
 
 <h2 align="center">
-  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">GitHub IDs :
+  <img src="https://skillicons.dev/icons?i=github" width="40"> GitHub IDs
 </h2>
  ```js
-> - itsysxv1
-> - VIPlatform
+const githubAccounts = {
+  main: "itsysxv1",
+  organization: "VIPlatform"
+};
 ```
 <table border="0">
   <tr>
@@ -27,7 +29,7 @@
 </table>
 
 <h2 align="center">
-  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">MY INFORMATION :
+  <img src="https://skillicons.dev/icons?i=user" width="40"> My Information
 </h2>
 
 ```yaml
@@ -35,15 +37,15 @@
 name: youssef
 username: itsysxv1
 age: 22
-job: Full-Stack Developer & Security Enthusiast
-hobbies: clean code, dark themes, terminal life, coffee, music, anime, gaming
-about_me: Obsessed with clean code, dark themes, and terminal life
+job: Full-Stack Developer
+hobbies: nights of code black coffee music anime gaming
+about_me: i break and build in silence i move in shadows i let results speak
 
 ```
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## <img src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width="50px" height=50px> Connect With Me
+## <img src="https://skillicons.dev/icons?i=linkedin" width="40"> Connect With Me
 
 <div align="left">
   <a href="https://www.instagram.com/itsysx.v1/" target="_blank">
@@ -52,7 +54,7 @@ about_me: Obsessed with clean code, dark themes, and terminal life
   <a href="https://discord.gg/vihub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="mailto:yousexv1@gmail.com.com" target="_blank">
+  <a href="mailto:yousexv1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8c6e5c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.twitch.tv/iamysx" target="_blank">
@@ -63,9 +65,9 @@ about_me: Obsessed with clean code, dark themes, and terminal life
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## ⚙️ My Favorite Tools And Technologies
+## <img src="https://skillicons.dev/icons?i=code" width="40"> My Favorite Tools And Technologies
 
-<h3>Tools and technologies that I use regularly</h3>
+<h3>Programming Languages & Frameworks</h3>
 
 <table>
   <tr>
@@ -117,7 +119,7 @@ about_me: Obsessed with clean code, dark themes, and terminal life
       <img src="https://skillicons.dev/icons?i=c" width="48"><br><small>C</small>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"><br><small>C#</small>
+      <img src="https://skillicons.dev/icons?i=cs" width="48"><br><small>C#</small>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="48"><br><small>C++</small>
@@ -125,40 +127,74 @@ about_me: Obsessed with clean code, dark themes, and terminal life
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48"><br><small>MongoDB</small>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48"><br><small>PostgreSQL</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="48"><br><small>Redis</small>
+    </td>
   </tr>
 </table>
 
-<h4>🖥️ Operating Systems I use:</h4>
+<h3>DevOps & Tools</h3>
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="https://cdn.simpleicons.org/linux/000000/ffffff" width="32"><br><small>Kali / Arch / Ubuntu / Parrot</small>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"><br><small>Docker</small>
     </td>
-    <td align="center" width="180">
-      <img src="https://camo.githubusercontent.com/3c311b1b854ef3f9f7cbb31fcf1dea7266fc0b397415c291de241a689ad8b0ac/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f77696e646f77732f3030373844362f666666666666" width="32"><br><small>Windows</small>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48"><br><small>Nginx</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48"><br><small>Vercel</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48"><br><small>Git</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48"><br><small>Postman</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"><br><small>Tailwind</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48"><br><small>Bootstrap</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48"><br><small>Firebase</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48"><br><small>AWS</small>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br><small>Kubernetes</small>
     </td>
   </tr>
 </table>
+
+
 
 
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
 
-## 📈 GitHub Stats
+## <img src="https://skillicons.dev/icons?i=chart" width="40"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
   <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
 </div>
 
-## 📊 Languages Used
+## <img src="https://skillicons.dev/icons?i=language" width="40"> Languages Used
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
 </div>
 
-## 🏆 Trophy Case & Contribution Graph
+## <img src="https://skillicons.dev/icons?i=trophy" width="40"> Trophy Case & Contribution Graph
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
